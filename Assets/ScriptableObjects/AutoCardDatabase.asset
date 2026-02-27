@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fea5305c9d5cc441b82effd61ad62d6, type: 3}
+  m_Name: AutoCardDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::CardGame.Data.CardDatabase
+  Cards:
+  - PlayerID: Icardi99
+    DisplayName: Mauro Icardi
+    Club: 1
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Muslera1
+    DisplayName: Fernando Muslera
+    Club: 1
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Tadic10
+    DisplayName: Dusan Tadic
+    Club: 0
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Dzeko9
+    DisplayName: Edin Dzeko
+    Club: 0
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Gedson83
+    DisplayName: Gedson Fernandes
+    Club: 2
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Aboubakar10
+    DisplayName: Vincent Aboubakar
+    Club: 2
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Ugurcan1
+    DisplayName: Ugurcan Cakir
+    Club: 3
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Visca7
+    DisplayName: Edin Visca
+    Club: 3
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Icardi99
+    DisplayName: Mauro Icardi
+    Club: 1
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Tadic10
+    DisplayName: Dusan Tadic
+    Club: 0
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Gedson83
+    DisplayName: Gedson Fernandes
+    Club: 2
+    PlayerPortrait: {fileID: 0}
+  - PlayerID: Ugurcan1
+    DisplayName: Ugurcan Cakir
+    Club: 3
+    PlayerPortrait: {fileID: 0}
