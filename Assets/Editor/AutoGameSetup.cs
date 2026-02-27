@@ -7,7 +7,7 @@ public class AutoGameSetup : EditorWindow
     public static void SetupScene()
     {
         if (EditorUtility.DisplayDialog("Sahne Kur",
-            "Sahne temizlenip oyun otomatik kurulacak.\nDevam etmek istiyor musun?", "Evet", "Hayir"))
+            "Sahnes temizlenip oyun otomatik kurulacak.\nDevam etmek istiyor musun?", "Evet", "Hayir"))
         {
             foreach (GameObject obj in Object.FindObjectsOfType<GameObject>())
             {
